@@ -8,5 +8,6 @@
 # Instructions
 * Put ghee in a pan
 * Add cumin seeds
+* Add ginger and green chilli
 * Put boiled moong daal
 * Serve hot
